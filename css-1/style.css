@@ -1,0 +1,738 @@
+.header1{
+
+width: 100%;
+height: 70px;
+background-color: rgb(245, 235, 240);
+position: fixed;
+z-index: 30;
+left: 0;
+opacity: 0.7;
+
+/* ///////////////////////////////////////// ////////*/
+}
+.parent{
+
+overflow: auto;
+
+}
+
+.img1{
+
+margin-left: 40px;
+float: left;
+
+}
+
+.list1 li {
+font-size: larger;
+color: rgb(173, 12, 93);
+display: inline-block;
+list-style: none;
+float: right;
+margin: 15px;
+
+}
+
+.list1 li a {
+
+    text-decoration: none;
+color: rgb(78, 2, 32);
+
+}
+/* ////////////////////////////////////////////////////// */
+.div2{
+
+background-image: url(../img1/pexels-valeria-boltneva-617967.jpg);
+    width: 1405px;
+    height: 800px;
+background-size: cover;
+
+}
+
+.title{
+
+width: 400px;
+height: 300px;
+/* border: 4px  solid  red; */
+position: absolute;
+text-align: center;
+padding: 230px;
+
+}
+
+h1{
+color:rgb(78, 2, 32) ;
+font-size: xx-large;
+font-family: 'Dancing Script';
+font-weight: 900;
+
+}
+
+.title-top{
+    color: #fff;
+    font-size: xx-large;
+    font-family: 'Dancing Script';
+    font-weight: 900;
+    
+    }
+
+.p1{
+ 
+font-size:xx-large;
+font-family: 'Dancing Script';
+font-weight: 800 ;
+color:  rgb(242, 221, 221);
+
+}
+
+.button1{
+font-size: large;
+font-family: 'Dancing Script';
+text-decoration: none;
+background-color:  rgb(246, 227, 241);
+width: 150px;
+height: 40px;
+border: 1px solid ;
+border-radius: 20px;
+
+}
+.button1:hover{
+
+    background-color: #f4eaf1;
+}
+.title .button1 a{
+    text-decoration: none;
+    color:rgb(78, 2, 32) ;
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.div3{
+
+width: 1405px;
+height: 550px;
+/* border: 3px  solid red; */
+/* background-color: rgb(234, 229, 234); */
+
+}
+.ppp1{
+
+text-align: center;
+font-size: xx-large;
+font-family: Arial, Helvetica, sans-serif;
+color:rgb(167, 116, 116);
+
+}
+
+.parent{
+
+
+overflow: auto;
+
+}
+.diva{
+
+ width: 200px;
+ height: 200px;
+ border: 1px solid;
+ border-radius:  8px;
+ float: left;
+margin-left: 70px;
+background-image: url(../img1/weeding.webp);
+background-size: cover;
+
+}
+.diva a{
+    text-decoration: none;
+     color: #fff;
+}
+
+.divb{
+ width: 200px;
+ height: 200px;
+ border: 1px solid;
+ border-radius:  8px;
+ float: left;
+ margin:  0px  10px ;
+ background-image: url(../img1/birthday.webp);
+ background-size: cover;
+}
+.divb a{
+    text-decoration: none;
+     color: #fff;
+}
+
+.divc{
+  width: 200px;
+  height: 200px;
+  border: 1px solid;
+  border-radius:  8px;
+  float: left;
+  margin: 0px  10px;
+ background-image: url(../img1/gradu.webp);
+ background-size: cover;
+    }
+    .divc a{
+        text-decoration: none;
+         color: #fff;
+    }
+    
+.divd a{
+    width: 200px;
+    height: 200px;
+    border: 1px solid ;
+    border-radius:  8px;
+   float: left;
+   margin: 0px  10px;
+   background-image: url(../img1/well.webp);
+   background-size: cover;
+    }
+    .divd a{
+        text-decoration: none;
+         color: #fff;
+    }
+    
+.dive{
+    width: 200px;
+    height: 200px;
+    border: 1px solid ;
+    border-radius:  8px;
+   float: left;
+   margin: 0px  10px ;
+   background-image: url(../img1/love\ you.webp);
+  background-size: cover;
+
+    }
+    .dive a{
+        text-decoration: none;
+         color: #fff;
+    }
+    
+
+.divf{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    border-radius:  8px;
+    float: left;
+    margin: 0px 10px;
+   background-image: url(../img1/baby.webp);
+    background-size: cover;
+    }
+    .divf a{
+        text-decoration: none;
+         color: #fff;
+    }
+    
+.firest{
+
+font-size: large;
+color: azure;
+text-align: center;
+font-weight: 700;
+font-style: italic;
+
+}
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.parent{
+
+overflow: auto;
+
+}
+
+.div4{
+
+    width: 1405px;
+    height: 1100px;
+ /* border: 3px  solid; */
+ /* background-color: rgb(247, 239, 245) ; */
+ 
+
+}
+.ppp2{
+
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(167, 116, 116);
+    
+}
+
+.line{
+
+width: 15%;
+height: 3px;
+border-radius: 5px;
+margin: auto;
+background-color:rgb(167, 116, 116) ;
+ margin-top: -15px;
+}
+/* /////////////////////////////////////////////////////// */
+
+.div11{
+
+ width: 230px;
+ height: 400px;
+ /* border: 3px solid; */
+ border-radius: 25px;
+ float: left;
+ margin: 40px  140px ;
+ background-size: cover;
+ text-align: center;
+ position: relative;
+
+}
+.img7{
+    border-radius: 25px;
+    
+}
+
+.p11{
+
+font-size: x-large;
+font-family:'Dancing Script' ;
+font-weight: 700;
+color:rgb(167, 116, 116) ;
+}
+.div11  .p11  button {
+    width: 100px;
+    height: px;
+    font-size: large;
+    font-family:'Dancing Script' ;
+   color: rgb(167, 116, 116);
+    background-color:rgb(247, 239, 245) ;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+.div11::after{
+
+    position: absolute;
+    content: '';
+    width: 0 ; 
+    height: 0 ;
+    top:0;
+    right: 0 ;
+    background-color: #d6d5d6;
+    opacity: 0;
+}
+    .div11:hover:after{
+    
+    width: 100% ;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 1s;
+    
+}
+.div11::before{
+
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background-color: #fee4f7;
+    opacity: 0;
+    
+}
+.div11:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+ transition: 0.5s;
+   
+}
+
+.div22{
+ width: 230px;
+ height: 400px;
+ /* border: 3px solid; */
+ border-radius: 25px;
+ float: left;
+ margin: 40px   50px  ;
+ text-align: center;
+ background-size: cover;
+ position: relative;
+}
+.div22::after{
+
+    position: absolute;
+    content: '';
+    width: 0 ; 
+    height: 0 ;
+    top:0;
+    right: 0 ;
+    background-color: #d6d5d6;
+    opacity: 0;
+}
+    .div22:hover:after{
+    
+    width: 100% ;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 1s;
+    
+}
+.div22::before{
+
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background-color: #fee4f7;
+    opacity: 0;
+    
+}
+    .div22:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 0.5s;
+   
+}
+.img2{
+
+    border-radius: 25px;
+}
+.p22{
+
+    font-size: x-large;
+    font-family:'Dancing Script' ;
+    font-weight: 700;
+  color:rgb(167, 116, 116) ;
+}
+
+.div22  .p22  button {
+    width: 100px;
+    height: px;
+    font-size: large;
+    font-family:'Dancing Script' ;
+    color: rgb(167, 116, 116);
+   background-color: rgb(247, 239, 245);
+   border: 1px solid;
+   border-radius: 10px;
+}
+
+.div33{
+ width: 230px;
+ height: 400px;
+ /* border: 3px solid; */
+ border-radius: 25px;
+ float: left;
+ margin: 40px  150px ;
+ background-size: cover;
+ text-align: center;
+position: relative;
+}
+.div33::after{
+
+    position: absolute;
+    content: '';
+    width: 0 ; 
+    height: 0 ;
+    top:0;
+    right: 0 ;
+    background-color: #d6d5d6;
+    opacity: 0;
+}
+    .div33:hover:after{
+    
+    width: 100% ;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 1s;
+    
+}
+.div33::before{
+
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background-color: #fee4f7;
+    opacity: 0;
+    
+}
+.div33:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 0.5s;
+   
+}
+.img3{
+    border-radius: 25px;
+
+}
+.p33{
+    
+ font-size:x-large ;
+ font-family:'Dancing Script' ;
+ font-weight: 700;
+ color:rgb(167, 116, 116) ;
+
+}
+.div33  .p33  button {
+    width: 100px;
+    height: px;
+    font-size: large;
+    font-family:'Dancing Script' ;
+    color: rgb(167, 116, 116);
+    background-color: rgb(247, 239, 245) ;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.div44{
+    
+ width: 230px;
+ height: 400px;
+ /* border: 3px solid; */
+ border-radius: 25px;
+ float: left;
+ margin: 40px  150px;
+ background-size: cover;
+ text-align: center;
+ position: relative;
+
+}
+.div44::after{
+
+    position: absolute;
+    content: '';
+    width: 0 ; 
+    height: 0 ;
+    top:0;
+    right: 0 ;
+    background-color: #d6d5d6;
+    opacity: 0;
+}
+ .div44:hover:after{
+    
+    width: 100% ;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 1s;
+    
+}
+ .div44::before{
+
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background-color: #fee4f7;
+    opacity: 0;
+    
+}
+.div44:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 0.5s;
+   
+}
+.img4{
+
+    border-radius: 25px;
+}
+.p44{
+  
+ font-size:x-large;
+ font-family:'Dancing Script' ;
+ font-weight: 700;
+ color:rgb(167, 116, 116) ;
+
+}
+.div44  .p44 button {
+    width: 100px;
+    height: px;
+    font-size: large;
+    font-family:'Dancing Script' ;   
+    color: rgb(167, 116, 116);
+   background-color:  rgb(247, 239, 245);
+   border: 1px solid;
+   border-radius: 10px;
+
+}
+
+.div55{
+    
+ width: 230px;
+ height: 400px;
+ /* border: 3px solid; */
+ border-radius: 25px;
+ float: left;
+ margin: 40px;
+ background-size: cover;
+ text-align: center;
+ position: relative;
+
+}
+.div55::after{
+
+    position: absolute;
+    content: '';
+    width: 0 ; 
+    height: 0 ;
+    top:0;
+    right: 0 ;
+    background-color: #d6d5d6;
+    opacity: 0;
+}
+ .div55:hover:after{
+    
+    width: 100% ;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 1s;
+    
+}
+.div55::before{
+
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background-color: #fee4f7;
+    opacity: 0;
+    
+}
+.div55:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 0.5s;
+   
+}
+.img5{
+    border-radius: 25px;
+
+}
+.pp55{
+
+    font-size: x-large;
+    font-family:'Dancing Script' ;
+    font-weight: 700;
+    color: rgb(167, 116, 116);
+
+}
+.div55  .pp55  button {
+    width: 100px;
+    height: px;
+    font-size: large;
+    font-family:'Dancing Script' ;   
+    color: rgb(167, 116, 116);
+     background-color: rgb(247, 239, 245) ;
+     border: 1px solid;
+     border-radius: 10px;
+}
+
+
+.div66{
+
+  width: 230px;
+  height: 400px;
+  /* border: 3px solid; */
+  border-radius: 25px;
+  float: left;
+ margin: 40px  150px;
+background-size: cover;
+ text-align: center;
+ position: relative;
+ 
+}
+.div66::after{
+
+    position: absolute;
+    content: '';
+    width: 0 ; 
+    height: 0 ;
+    top:0;
+    right: 0 ;
+    background-color: #d6d5d6;
+    opacity: 0;
+}
+.div66:hover:after{
+    
+    width: 100% ;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 1s;
+    
+}
+.div66::before{
+
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background-color: #fee4f7;
+    opacity: 0;
+    
+}
+.div66:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    border-radius: 25px;
+    transition: 0.5s;
+   
+}
+.img6{
+
+    border-radius: 25px;
+}
+
+.pp66{
+
+
+    font-size: x-large;
+    font-family:'Dancing Script' ;
+    font-weight: 700;
+    color:rgb(167, 116, 116) ;
+}
+
+.div66  .pp66 button {
+    width: 100px;
+    height: px;
+    font-size: large;
+    font-family:'Dancing Script' ;   
+    color: rgb(167, 116, 116);
+    background-color: rgb(247, 239, 245) ;
+     border: 1px solid;
+     border-radius: 10px;
+
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+
